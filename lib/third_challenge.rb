@@ -7,10 +7,10 @@ def third_challenge
         },
       :matriarch => {
         :name =>  "Lady Montague"
-        :age =>
+        :age => "54"
         },
       :hero => {
-        :name =>  
+        :name =>  "Romeo"
         :age =>
         },
       :hero_friends => []
